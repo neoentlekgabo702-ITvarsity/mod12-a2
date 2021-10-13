@@ -1,0 +1,26 @@
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvetica, sans-serif;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: gray;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid gray;
+}
+
+input{
+    background-color: black;
+    font-family: sans-serif;
+    text-align: center;
+    width: 100%;
+    font-size: 1em;
+    color: #fff;
+    border: 0px;
+}
